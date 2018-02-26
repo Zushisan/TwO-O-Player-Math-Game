@@ -30,18 +30,3 @@ loop do
   player_2 = player_array[1]
 
 end
-
-
-
-
-
-# i = 0
-# loop do
-#   i += 1
-  
-
-
-#   if i == 10
-#     break  
-#   end      # this will cause execution to exit the loop
-# end
